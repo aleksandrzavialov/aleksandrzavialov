@@ -55,11 +55,11 @@
 <!--Projects-->
 
 ## :floppy_disk: Projects
-### <img width="3%" title="UI tests project" src="images/logo_stacks/github.png"> [Link](https://github.com/aleksandrzavialov/summer_patio_web_autotests)
+### <img width="3%" src="images/logo_stacks/github.png"> [UI tests project](https://github.com/aleksandrzavialov/summer_patio_web_autotests)
 
-### <img width="3%" title="API tests project" src="images/logo_stacks/github.png"> [Link](https://github.com/aleksandrzavialov/spotify_api_tests)
+### <img width="3%" src="images/logo_stacks/github.png"> [API tests project](https://github.com/aleksandrzavialov/spotify_api_tests)
 
-### <img width="3%" title="Mobile tests project" src="images/logo_stacks/github.png"> [Link](https://github.com/aleksandrzavialov/python-gismeteo-app)
+### <img width="3%" src="images/logo_stacks/github.png"> [Mobile tests project](https://github.com/aleksandrzavialov/python-gismeteo-app)
 
 
 <!--Git Stats-->
