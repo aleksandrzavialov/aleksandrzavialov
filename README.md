@@ -20,7 +20,7 @@
 ## :man_student:Education
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><img src="images/social_networks/magtu.png"></td><td valign="middle">Nosov Magnitogorsk State Technical University.</br> Institute of Automation and Computer Engineering.</br>Specialist 2012</td></tr>
+    <td width="30%" valign="bottom"><img src="images/social_networks/magtu.jpg"></td><td valign="middle">Nosov Magnitogorsk State Technical University.</br> Institute of Automation and Computer Engineering.</br>Specialist 2012</td></tr>
   </table>
   </br>
   
@@ -49,8 +49,6 @@
   <code><img width="5%" title="Appium" src="images/logo_stacks/appium.png"></code>
   <code><img width="5%" title="Browserstack" src="images/logo_stacks/browserstack.png"></code>
   <code><img width="5%" title="Jira" src="images/logo_stacks/jira.png"></code>
-  <code><img width="5%" title="Confluence" src="images/logo_stacks/confluence.png"></code>
-  <code><img width="5%" title="Postman" src="images/logo_stacks/postman.png"></code>
 </p>
   
   
