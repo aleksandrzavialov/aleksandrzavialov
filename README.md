@@ -4,7 +4,7 @@
 
 ## :technologist:About me
 - I'm manual and automation Engineer
-- I work QA engineer since 2013
+- I have been working as QA engineer since 2013
 - I write autotests in Python and TypeScript
 - Contacts:
 
